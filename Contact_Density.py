@@ -1,4 +1,4 @@
-#©Group Phoenix 
+#Created by Ankit Kumar Sinha
 print ("Enter a protein conformation file name:(eg. conformation.pdb)")
 filename = input()
 pdb=open(filename,"r")
